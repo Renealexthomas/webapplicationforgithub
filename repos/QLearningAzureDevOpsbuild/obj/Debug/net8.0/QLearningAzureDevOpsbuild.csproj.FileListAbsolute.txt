@@ -1,0 +1,5 @@
+C:\Users\183597\source\repos\QLearningAzureDevOpsbuild\obj\Debug\net8.0\QLearningAzureDevOpsbuild.csproj.AssemblyReference.cache
+C:\Users\183597\source\repos\QLearningAzureDevOpsbuild\obj\Debug\net8.0\QLearningAzureDevOpsbuild.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\183597\source\repos\QLearningAzureDevOpsbuild\obj\Debug\net8.0\QLearningAzureDevOpsbuild.AssemblyInfoInputs.cache
+C:\Users\183597\source\repos\QLearningAzureDevOpsbuild\obj\Debug\net8.0\QLearningAzureDevOpsbuild.AssemblyInfo.cs
+C:\Users\183597\source\repos\QLearningAzureDevOpsbuild\obj\Debug\net8.0\QLearningAzureDevOpsbuild.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\183597\source\QLearningAzureDevOps\obj\Debug\net8.0\QLearningAzureDevOps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\183597\source\QLearningAzureDevOps\obj\Debug\net8.0\QLearningAzureDevOps.AssemblyInfoInputs.cache
+C:\Users\183597\source\QLearningAzureDevOps\obj\Debug\net8.0\QLearningAzureDevOps.AssemblyInfo.cs
+C:\Users\183597\source\QLearningAzureDevOps\obj\Debug\net8.0\QLearningAzureDevOps.csproj.CoreCompileInputs.cache
+C:\Users\183597\source\QLearningAzureDevOps\bin\Debug\net8.0\QLearningAzureDevOps.exe
+C:\Users\183597\source\QLearningAzureDevOps\bin\Debug\net8.0\QLearningAzureDevOps.deps.json
+C:\Users\183597\source\QLearningAzureDevOps\bin\Debug\net8.0\QLearningAzureDevOps.runtimeconfig.json
+C:\Users\183597\source\QLearningAzureDevOps\bin\Debug\net8.0\QLearningAzureDevOps.dll
+C:\Users\183597\source\QLearningAzureDevOps\bin\Debug\net8.0\QLearningAzureDevOps.pdb
+C:\Users\183597\source\QLearningAzureDevOps\obj\Debug\net8.0\QLearningAzureDevOps.dll
+C:\Users\183597\source\QLearningAzureDevOps\obj\Debug\net8.0\refint\QLearningAzureDevOps.dll
+C:\Users\183597\source\QLearningAzureDevOps\obj\Debug\net8.0\QLearningAzureDevOps.pdb
+C:\Users\183597\source\QLearningAzureDevOps\obj\Debug\net8.0\QLearningAzureDevOps.genruntimeconfig.cache
+C:\Users\183597\source\QLearningAzureDevOps\obj\Debug\net8.0\ref\QLearningAzureDevOps.dll

@@ -1,0 +1,17 @@
+C:\Users\183597\source\AzureDevOpsServiceConnections\obj\Debug\net8.0\AzureDevOpsServiceConnections.csproj.AssemblyReference.cache
+C:\Users\183597\source\AzureDevOpsServiceConnections\obj\Debug\net8.0\AzureDevOpsServiceConnections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\183597\source\AzureDevOpsServiceConnections\obj\Debug\net8.0\AzureDevOpsServiceConnections.AssemblyInfoInputs.cache
+C:\Users\183597\source\AzureDevOpsServiceConnections\obj\Debug\net8.0\AzureDevOpsServiceConnections.AssemblyInfo.cs
+C:\Users\183597\source\AzureDevOpsServiceConnections\obj\Debug\net8.0\AzureDevOpsServiceConnections.csproj.CoreCompileInputs.cache
+C:\Users\183597\source\AzureDevOpsServiceConnections\bin\Debug\net8.0\AzureDevOpsServiceConnections.exe
+C:\Users\183597\source\AzureDevOpsServiceConnections\bin\Debug\net8.0\AzureDevOpsServiceConnections.deps.json
+C:\Users\183597\source\AzureDevOpsServiceConnections\bin\Debug\net8.0\AzureDevOpsServiceConnections.runtimeconfig.json
+C:\Users\183597\source\AzureDevOpsServiceConnections\bin\Debug\net8.0\AzureDevOpsServiceConnections.dll
+C:\Users\183597\source\AzureDevOpsServiceConnections\bin\Debug\net8.0\AzureDevOpsServiceConnections.pdb
+C:\Users\183597\source\AzureDevOpsServiceConnections\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\183597\source\AzureDevOpsServiceConnections\obj\Debug\net8.0\AzureDev.15870F7F.Up2Date
+C:\Users\183597\source\AzureDevOpsServiceConnections\obj\Debug\net8.0\AzureDevOpsServiceConnections.dll
+C:\Users\183597\source\AzureDevOpsServiceConnections\obj\Debug\net8.0\refint\AzureDevOpsServiceConnections.dll
+C:\Users\183597\source\AzureDevOpsServiceConnections\obj\Debug\net8.0\AzureDevOpsServiceConnections.pdb
+C:\Users\183597\source\AzureDevOpsServiceConnections\obj\Debug\net8.0\AzureDevOpsServiceConnections.genruntimeconfig.cache
+C:\Users\183597\source\AzureDevOpsServiceConnections\obj\Debug\net8.0\ref\AzureDevOpsServiceConnections.dll
